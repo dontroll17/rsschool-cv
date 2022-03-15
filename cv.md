@@ -1,5 +1,5 @@
 # Dmitriy Salkov
-## [Link](https://t.me/D_Salkov)
+## TG: D_Salkov [Link](https://t.me/D_Salkov)
 ## Discord: @dontroll17
 
 *I am learning Node.js. Worked on the backend of the online school.
@@ -13,7 +13,7 @@ I also made minor changes to the front on Vue*
 4. WebStrorm
 
 ## Code examples:
-[Link](https://github.com/dontroll17)
+Git: [Link](https://github.com/dontroll17)
 
 ## Education:
 * Unfinished higher education GYAP
